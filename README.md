@@ -1,7 +1,7 @@
 # reading-notes
 Reading Notes for Code Fellows
 
-![WHo](https://images.app.goo.gl/CFr131URPWVncts5A)
+![WHo](/dark_man.jpg)
 
 ## What i learned about a growth mindset
 
