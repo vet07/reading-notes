@@ -11,4 +11,7 @@ Reading Notes for Code Fellows
 
 ## Markdown
 
-- only gives
+## 201 readings 
+
+- [reading1](class01.md)
+- [reading2](class02.md)
